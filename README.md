@@ -14,6 +14,13 @@ Please note that I am not associated with mee6 in any way and this is a third pa
 
 __Download Chromedriver based on your chrome version__
 
+# Updates
+| Version       | Date          | Things Added                                                               |
+| ------------- |:-------------:| ---------------------------------------------------------------------------|
+| 1.0           | 2020-02-08    | Release of the Dash Utility                                                |
+| 1.1           | 2020-02-10    | Patched crashing when clicking 'connect path' for OS High Sierra and Above |
+
+
 # Other Versions
 - Windows (Console version) : [Here](https://github.com/Multivalence/Mee6_dashutility-Windows)
 - MacOS (Console Version - **DEPRECATED**) : [Here](https://github.com/Multivalence/DashUtilityMAC-Console)
